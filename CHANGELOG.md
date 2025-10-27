@@ -1,8 +1,15 @@
-# CHANGELOG
-- Used `git fetch` 1 time
-- Used `git pull` 1 time
-- Used git stash 1 time
-- Used git cherry-pick 1 time
-- Used git rebase 1 time
-- Used git reset 3 times and git revert 1 time
-- Created 2+ tags
+- d624e0f: docs: Add Git Mastery Journey documentation (Malleswari-275, 62 seconds ago)
+- 75160fd: docs: Update CHANGELOG with tag creation (Malleswari-275, 6 minutes ago)
+- 9b1b1f7: docs: Update CHANGELOG with reset and revert usage (Malleswari-275, 16 minutes ago)
+- 5609534: docs: Update CHANGELOG with rebase usage (Malleswari-275, 18 minutes ago)
+- c270fec: feat: Add test feature (Malleswari-275, 21 minutes ago)
+- 1c9aa79: docs: Update README (Malleswari-275, 21 minutes ago)
+- 1be7896: feat: Add new feature (Malleswari-275, 28 minutes ago)
+- 67f3885: docs: Add FAQ section (Malleswari-275, 30 minutes ago)
+- 4392215: Resolved all merge conflicts and merged experimental updates into main (Malleswari-275, 43 minutes ago)
+- 057dad4: merge: Resolve all conflicts between main and dev branches (Malleswari-275, 56 minutes ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 4 days ago)
+- 02011a5: updating dev (Hanu Gupta, 4 days ago)
+- 0312c6f: updating main (Hanu Gupta, 4 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 4 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 4 days ago)
