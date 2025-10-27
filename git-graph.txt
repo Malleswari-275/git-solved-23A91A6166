@@ -1,0 +1,22 @@
+* 0ff0b48 (HEAD -> main, origin/main) docs: Add changelog
+* d624e0f docs: Add Git Mastery Journey documentation
+* 75160fd docs: Update CHANGELOG with tag creation
+* 9b1b1f7 (tag: v1.1.0, tag: v1.0.0) docs: Update CHANGELOG with reset and revert usage
+* 5609534 docs: Update CHANGELOG with rebase usage
+* c270fec (feature/rebase) feat: Add test feature
+* 1c9aa79 docs: Update README
+* 1be7896 feat: Add new feature
+* 67f3885 docs: Add FAQ section
+| * f4fb94a (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   4392215 Resolved all merge conflicts and merged experimental updates into main
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   057dad4 merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
