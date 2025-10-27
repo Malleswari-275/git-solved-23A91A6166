@@ -6,7 +6,7 @@ A comprehensive CI/CD configuration management tool for enterprise and experimen
 - **Version**: 3.0.0-experimental (includes 1.0.0 stable, 2.0.0-beta legacy)
 - **Environments**: Production, Development, Testing
 - **Maintainer**: DevOps Innovation Team
-- **Student**: Alaingi Naga Malleswari
+- **Student**: Alajingi Naga Malleswari
 - **Student ID**: 23A91A6166
 
 ---
